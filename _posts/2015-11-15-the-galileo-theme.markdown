@@ -3,7 +3,7 @@ layout: post
 title:  "Grand Teton Day 1"
 date:   2019-06-11 13:05:14 +0100
 categories: jekyll theme
-location: Grand Teton National Park, USA
+location: Taggard Lake trail, Grand Teton National Park, USA
 ---
 
 
