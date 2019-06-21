@@ -8,13 +8,13 @@
 # Site settings
 title: Travelog, June 9-19, 2019
 author: the peeps
-author_link: https://fandemonium.github.io/galileo-theme
+author_link: 
 author_description: Adina, Mike, Tomas, Eveliina, QP, and Fan
 email: fan.michelle.yang@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   some awesome memories from the land and mountains in the west, Badland, Custer, Grand Teton, Yellowstone, Montana Highway 212. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://fandemonium.github.io/galileo-theme" # the base hostname & protocol for your site
+url: "https://fandemonium.github.io/Mountains-of-the-West" # the base hostname & protocol for your site
 
 # Picturefill
 # A responsive image polyfill: http://scottjehl.github.io/picturefill/
