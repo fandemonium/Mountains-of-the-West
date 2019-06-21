@@ -6,6 +6,7 @@ categories: jekyll theme
 location: Grand Teton National Park, USA
 ---
 
+
 Mike's beautiful blog here
 Mike's beautiful blog here
 Mike's beautiful blog hereMike's beautiful blog here
@@ -15,8 +16,8 @@ Mike's beautiful blog hereMike's beautiful blog hereMike's beautiful blog here
 
 
 <div class="post-image">
-    <img src="https://lh3.googleusercontent.com/s2ZWBHIP44Evcj9zhxHw9eJf678EU-d6moK__Z0CxlmWNJdtEsMr2ILLd1RwpDPNaEF-5zwTW9VYTwuRudlJ9UsTOLmD0oOYPr-f-8JXHYXN7xXaPfvzgiF_xmCegImtQMmBKf1w7q2nh59YvAF_2ycu8fYyMV7AlByI1JJ_-QeCF1Idv7qFeeVhYXVNW1C_cVnmwe3s2suk-UyW0vbGANnmSoMUmLPZr2bWxHBxvA_CT239bZ3SMnRkT7-YmnAW4BsrPBqD35OLZ6HgQmQHQ4vS-yumgmlR4WsZR-cHavInJGFRdR6DRhhcb5dka3-pSOYzbx49IWZMcM8bD9aijzWQvMttEqc189JFTfi0BgvSNid--0xsHbubTIWGH1Ge1mN6drefpq8fZaljT7vOQcAAwVW2e8yTsgv9633EXFwCGhl-x87a9Gu0dC7ZvVeSo1Wnpj1eRl6iTvuEemgWd3zw4uZC48kgZL_A3jvGFK0qlYP40uAhrLEXoQhHY-2Jps5TEQ2vJmzruN5nI5tS9x_bkBnAdjr2trppCZTO_UKTg1KIL7ehH6pgeeptl8ll1FTsiz8u3xQB6M2Hjp895uKqoDjC2tJVRNPsCS5lMgSeug_pRre5XoyNLFNBWQ13nvPA6ysFfd8YNRZIAhH_p1fPfYLfzkW4xq8L7xVR7sr_NHzR8vZA_85AwR2l5RFtX3a3XGB0vG1A3yV1yv20mPl7KA=w252-h377-no" alt="Taggard_lake_hike1" />
-    <p class="post-image-caption">Here we demonstrate a caption. This'll adapt to any length of text.</p>
+    <img src="https://lh3.googleusercontent.com/Gk-OppwlWS9FQvUdCNySxaWi5mLedl45BH3D6pel_rlhDy1_oL3ViU_7hkgpABOdxslO1AlK18duIpeCW_j_24uLjYINEq4SF9BScpKDIWc8_NtmOzYVj1gZDozZbe6Rzo99ZGkLRWjrr7OvchBs8I-FfX_LHxEX_dykTVGrcMU30NU1CUAu4YCLwZvL4xaDimw_tzh4GB_VSH5EG6EvTh6TIcRPH6gGa3APRlZZ6rmtftjITL75WpqflbvD58AU3pni0bRPlBWBKZ8pnx6hvniw_039VmwBbKBvIye0DpAF1RqmTbAOZ-f601_ZOuxNdmjRKZjBfvrjvobr07JHqMbJddyxbochmcUbQJGISDwpQdtQUAYZWaRgpT_u4YA1f_VjBll_kCbPQ0e03AzfyrEAIiU74lmThU79YLqKeihP8kqhUlSAMWM9FthuznYoynEHD77-fxp4gyMmjZE96PkEwKJfMlBaylsoEgYBc-trQEewTO7QXmQjVpMqtXGH2oBQl2J4ksRiFw1WdN-diSL1V2uqyH8rSi9o6coe5MijQ1ednsRrQ5tS0quoyWKq7JG2JuzeeApT8W5roWMwY0e_cGHvQyqsbwKP3tg9auwORLm_-i80r3nmR6Tq1zJokqiUeNKPeWNlUA6dOxZ-k8dMJiLMR52T_MTYKjUlBtEeOFjzoGTsrMxlaj41PJnSKOASvjqysBvKIQFHHV7JXPOiGA=w2114-h1408-no" alt="teton_day3" />
+    <p class="post-image-caption"> Mountains across some lake in Yellowstone. </p>
 </div>
 
 <div class="post-image post-image--split">
