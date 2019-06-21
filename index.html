@@ -1,5 +1,5 @@
 ---
-layout: null
+layout: default
 ---
 
 <!-- This loops through the paginated posts -->
