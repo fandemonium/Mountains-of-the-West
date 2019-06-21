@@ -13,8 +13,8 @@ author_description: Adina, Mike, Tomas, Eveliina, QP, and Fan
 email: fan.michelle.yang@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   some awesome memories from the land and mountains in the west, Badland, Custer, Grand Teton, Yellowstone, Montana Highway 212. 
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://fandemonium.github.io/Mountains-of-the-West/" # the base hostname & protocol for your site
+baseurl: "/Mountains-of-the-West" # the subpath of your site, e.g. /blog
+url: "https://fandemonium.github.io/" # the base hostname & protocol for your site
 
 # Picturefill
 # A responsive image polyfill: http://scottjehl.github.io/picturefill/
