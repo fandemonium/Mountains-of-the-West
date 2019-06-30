@@ -26,13 +26,19 @@ picturefill: false
 typekit_kit_id: kwf5dox
 
 # Build settings
-gems: [jekyll-paginate]
+gems: [jekyll-paginate-v2]
 markdown: kramdown
 permalink: pretty
 
 # Pagination
 paginate: 5
 
+pagination:
+  enabled: true
+  collection: 'posts'
+  sort_field: 'date'
+  sort_reverse: false
+  
 # Sass
 sass:
     style: :compressed
