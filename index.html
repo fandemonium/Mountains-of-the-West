@@ -3,8 +3,7 @@ layout: default
 ---
 
 <!-- This loops through the paginated posts -->
-<!-- {% for post in paginator.posts reversed %} -->
-{% for post in site.posts reversed %}
+{% for post in paginator.posts reversed %}
   {% include post.html post=post content=post.content %}
 {% endfor %}
 
