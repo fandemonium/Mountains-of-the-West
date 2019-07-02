@@ -1,6 +1,6 @@
 #banner {
     @include retina-background-image($img-banner);
-    background-color: #73d984;
+    background-color: #8691a6;
     outline: none;
     display: block;
     width: $banner-width;
@@ -28,7 +28,7 @@
         top: $banner-height;
         left: $banner-border-offset;
         content: "";
-        background: #443E40;
+        background: #414a5c;
         height: $banner-border-width;
         width: $banner-width - ($banner-border-offset* 2);
     }
